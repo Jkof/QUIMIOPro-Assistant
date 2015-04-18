@@ -1,3 +1,1 @@
-# QUIMIOPro
-# QUIMIOPro
 # QUIMIOPro-Assistant
