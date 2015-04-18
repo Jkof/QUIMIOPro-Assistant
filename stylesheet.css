@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: url(nubesgrandes.jpg);
+	background-position: center;
+}
+
+form {
+	background: #D0D0D0;
+	width: 360px;
+	border:1px solid #B8B8B8;
+	border-radius: 3px;
+	-moz-border-radius :3px;
+	margin: 75px auto;
+}
+
+div {
+	width: 360px;
+	height:250px;
+	background: url(logo2.png);
+	background-position: center;
+	background-size: cover;
+}
+
+form input {
+	width: 280px;
+	height: 35px;
+	padding: 0px 10px;
+	margin: 30px 30px;
+	color: #6D6D6D;
+	text-align: center;
+}
+
+form button {
+	width: 300px;
+	margin: 50px 0px 30px 30px;
+	height: 50px;
+	background: #48D1CC;
+}
